@@ -1,0 +1,17 @@
+{
+  "name": "goalkickercom-sync",
+  "version": "1.0.0",
+  "description": "Sync all GoalKicker.com ebook to your disk with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ebook",
+    "goalkicker",
+    "downloader",
+    "scraper"
+  ],
+  "author": "Indra Firmansyah",
+  "license": "ISC"
+}
